@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 5f7c39a7b91984559835e9cefc49e8c7
+timeCreated: 1436916797
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteCompEC_0
+    21300002: SpriteCompEC_1
+    21300004: SpriteCompEC_2
+    21300006: SpriteCompEC_3
+    21300008: SpriteCompEC_4
+    21300010: SpriteCompEC_5
+    21300012: SpriteCompEC_6
+    21300014: SpriteCompEC_7
+    21300016: SpriteCompEC_8
+    21300018: SpriteCompEC_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SpriteCompEC_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 93
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteCompEC_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 139
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteCompEC_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 144
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteCompEC_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteCompEC_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 48
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteCompEC_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 96
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteCompEC_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 97
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteCompEC_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 88
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteCompEC_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 89
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteCompEC_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 53
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
